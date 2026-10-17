@@ -1,4 +1,4 @@
-package com.courierpyme.admin;
+package com.courierpyme;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
